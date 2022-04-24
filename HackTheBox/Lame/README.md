@@ -13,9 +13,9 @@
 
     ![Nmap Scan](img/nmap.png)
 
-    *After than I tried to connect to ftp service with the **Anonymous** user and **without** password and it worked :satisfied:!! But I couldn't find any utils :sweat_smile:, so I keep looking for something.*
+    *After that I tried to connect to ftp service with the **Anonymous** user and **without** password and it worked :satisfied:!! But I couldn't find any utils :sweat_smile:, so I keep looking for something.*
 
-2) As we can see it has samba working on ports 139 and 445, so I will scan again these ports:
+2) As we can see, the machine has a samba service running on ports 139 and 445, so I will scan again these ports:
 
     ![Nmap Scan](img/nmap-samba.png)
     ![OS info](img/os.png)
