@@ -6,26 +6,11 @@
 🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
 
 # Machines
-- [ ] [Lame](Lame/README.md)
-<!-- - [ ] [Lame](https://app.hackthebox.com/machines/Lame)
+- 👍 [Lame](Lame/README.md)
 
-# Challenges 
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
+    Difficulty - EASY
 
-# Fortresses
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
+    OS - Linux
 
-# Endgames
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-
-# Pro Labs
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-
-# Level 6 - Networking
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
-- [ ] [Lame](https://app.hackthebox.com/machines/Lame)
- -->
+    Status - RETIRED
+    
