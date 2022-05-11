@@ -1,4 +1,7 @@
 # TryHackMe
+
+User: [LisAzevedo](https://tryhackme.com/p/LisAzevedo)
+
 👍 = Completed.
 
 ⏳ = In progress.
